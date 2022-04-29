@@ -83,6 +83,15 @@ nav:after{
 
 .nav-container li a:hover {
    color: #660708;
-   
 
+
+}
+
+/*banner*/
+#main-banner {
+    background: url(https://pt.vecteezy.com/vetor-gratis/computador) no-repeat;
+    background-size: cover;
+    background-position: 0 55%;
+    position: relative;
+    margin-top: 100px;
 }
