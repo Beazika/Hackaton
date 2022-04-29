@@ -89,9 +89,18 @@ nav:after{
 
 /*banner*/
 #main-banner {
-    background: url(https://pt.vecteezy.com/vetor-gratis/computador) no-repeat;
+    background: url() no-repeat;
     background-size: cover;
     background-position: 0 55%;
     position: relative;
     margin-top: 100px;
+}
+
+#search-form {
+    position: relative;
+    width: 100%;
+    margin-left: auto;
+    padding-top: 16em;
+    padding-bottom: 15em;
+    text-align: center;
 }
