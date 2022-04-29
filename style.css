@@ -104,3 +104,14 @@ nav:after{
     padding-bottom: 15em;
     text-align: center;
 }
+#searche-form h1{
+    font-size: 40%;
+}
+
+#searche-form p{
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 18px;
+    font-weight: 300px;
+
+}
