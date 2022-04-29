@@ -9,6 +9,12 @@ body {
     margin: 0;
 }
 
+body{
+ background-image: url(https://www.freepik.es/vectores/banners-banner);
+}
+
+
+
 h1,h2,h3,h4,h5,p,span {
     margin: 0;
    color:  #a0a0a0;    
